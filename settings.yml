@@ -1,0 +1,11 @@
+show_link: 
+  default: true
+
+prefixed_icon:
+  default: "images"
+
+text:
+  default: "Browse the Gallery"
+
+url:
+  default: "/c/gallery/46"
